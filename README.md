@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my master thesis
-- 🌱 I’m currently learning MERN stack
+- 🔭 I have submitted my master thesis and officially graduated
+- 🌱 I’m currently diving deep into MERN Stack
 - 👯 I’m looking to collaborate on frontend dev with React 
 - 🤔 I’m looking for help with Full stack development
 - 💬 Ask me about Javascript
