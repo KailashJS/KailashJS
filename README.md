@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Full stack development
 - 💬 Ask me about Javascript
 - 📫 How to reach me: kcbhakta.99@gmail.com & kchandra.bhakta.bme16@iitbhu.ac.in 
-- ⚡ Fun fact: I have a cat!
+<!-- - ⚡ Fun fact: I have a cat! -->
+- ⚡ Fun fact: A group of flamingo is called flamboyance
 
 <a href="https://github.com/KailashJS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KailashJS&theme=light&hide_langs_below=1" />
