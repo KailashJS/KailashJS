@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on frontend dev with React
 - 🤔 I’m looking for help with Full stack development
 - 💬 Ask me about Javascript
-- 📫 How to reach me: kchandra.bhakta.bme16@iitbhu.ac.in
+- 📫 How to reach me: kcbhakta.99@gmail.com & kchandra.bhakta.bme16@iitbhu.ac.in 
 - ⚡ Fun fact: I have a cat!
 
 <a href="https://github.com/KailashJS">
