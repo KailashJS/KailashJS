@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Officially graduated from IIT BHU with dual degree (Bachelors + masters)
+- 🔭 IIT BHU, Varanasi graduate with dual degree in Biomedical Engineering (Bachelors + masters)
 - 🌱 I’m currently diving deep into MERN Stack
 - 👯 I’m looking to collaborate on frontend dev with React
 - 🤔 I’m looking for help with Full stack development
