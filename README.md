@@ -7,11 +7,11 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 IIT BHU, Varanasi graduate with dual degree in Biomedical Engineering (Bachelors + masters)
-- 🌱 I’m currently serving as Staff Engineer @IIRFRanking-Lab
+- 🌱 I’m the founder & CEO of CoeditorX & currently serving as Staff Engineer @IIRFRanking-Lab
 - 👯 I’m looking to collaborate on npm package development and maintenance
 - 🤔 I’m looking for help with Concurrent and Parallel Programming with Node.js
 - 💬 Ask me about Javascript | Node.js | MEAN Stack | MERN Stack | MongoDB | Education
-- 📫 How to reach me: kcbhakta.99@gmail.com & kailash@iirfranking.com & kchandra.bhakta.bme16@iitbhu.ac.in 
+- 📫 How to reach me: kcbhakta.99@gmail.com, kailash@coeditorx.com, kailash@iirfranking.com & kchandra.bhakta.bme16@iitbhu.ac.in 
 <!-- - ⚡ Fun fact: I have a cat! -->
 - ⚡ Fun fact: A group of flamingos is called flamboyance
 
