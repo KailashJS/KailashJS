@@ -5,7 +5,7 @@
 -->
 
 - 🔭 **IIT BHU, Varanasi** graduate with a dual degree in Biomedical Engineering (Bachelors + Masters)
-- 🌱 Founder & CEO of **MathColumn**, a SAAS platform to democratize Math Education
+- 🌱 Founder & CEO of **MathColumn**, a SAAS platform to democratizing Math Education
 - 👯 Looking to collaborate on LLM, npm package development and maintenance 
 - 🤔 Seeking assistance with Concurrent and Parallel Programming with Node.js
 - 💬 Ask me about JavaScript, Node.js, MERN Stack, MongoDB, Vercel, AWS, and Education
